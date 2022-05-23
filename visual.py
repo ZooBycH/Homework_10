@@ -8,3 +8,5 @@ def visualization_by_pk(i):
     candidates_pk += "\n"
 
     return "<pre>" + candidates_pk + "</pre>"
+
+
